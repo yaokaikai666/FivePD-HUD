@@ -1,0 +1,54 @@
+
+{
+    "settings": "設定",
+    "display": "顯示",
+    "display_description": "按一個按鈕切換 HUD 的部分開啟 / 關閉",
+    "movement": "移動",
+    "movement_description": "重新調整、移動和更改 HUD 的語言",
+    "extras": "額外選項",
+    "extras_description": "額外設定以自定義您的 HUD",
+
+    "fuel_s": "燃料",
+    "fuel": "燃料",
+    "rpm": "轉速",
+    "speed": "速度",
+    "belt": "速度",
+    "limiter": "限速器",
+    "gears": "擋位",
+    "motor": "馬達",
+    "right_signal": "右轉訊號",
+    "wrench": "扳手",
+    "left_signal": "左轉訊號",
+
+    "movement_sub": "移動",
+    "visual_sub": "視覺",
+    "readjust_sub": "重新調整",
+
+    "break": "刹車",
+    "freeze": "凍結",
+    "save_broke": "儲存",
+    "language": "語言",
+    "refresh_rate": "刷新率",
+    "default": "預設",
+    "speedo": "速度計",
+    "buttons": "按鈕",
+    "switches": "開關",
+
+    "extra_hud": "額外 HUD",
+    "dashboard": "儀表板",
+    "gps": "GPS",
+
+    "mileage": "里程",
+    "preview": "預覽",
+    "headlights": "前燈",
+
+    "maxspeed": "最大速度",
+    "map": "地圖切換",
+    "on": "開啟",
+    "off": "關閉",
+    "default_two": "預設",
+
+    "start": "啟動",
+    "locations": "位置",
+    "cancel": "取消"
+}
